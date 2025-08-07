@@ -1,7 +1,8 @@
-<img src="https://i.pinimg.com/originals/a5/20/0f/a5200ff8939402e4e2bbda3a8107d2b1.gif"  width="900"> 
-
 <h1 align="center">Hi, I'm Ancient XD 👋 </h1>
 
+<div align="center">
+<img src="https://i.pinimg.com/originals/a5/20/0f/a5200ff8939402e4e2bbda3a8107d2b1.gif"  width="900"> 
+</div>
 <h3 align="center">A passionate Fullstack Web Developer from Indonesia</h3><br>
 
 <p align="center">
